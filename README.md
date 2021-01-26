@@ -1,0 +1,1 @@
+# mingw-for-lazy-programmers
